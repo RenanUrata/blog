@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    outline: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+#root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
